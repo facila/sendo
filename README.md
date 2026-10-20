@@ -5,12 +5,12 @@
     contact : facila@gmx.fr
     web     : https://github.com/facila/sendo
 
- sauvegarde et téléchargement d'équipements réseau fonctionnant en mode running et startup
+sauvegarde et téléchargement d'équipements réseau fonctionnant en mode running et startup
 
- sendo utilise facila konekto et sxabloni que vous devez installer
- sendo est utilisé dans facila reto , outil de gestion d'équipements réseau
+sendo utilise facila konekto et sxabloni que vous devez installer
+sendo est utilisé dans facila reto , outil de gestion d'équipements réseau
 
- sendo.sh : fonction de sauvegarde et de téléchargement d'équipements réseau fonctionnant en mode running et startup
+sendo.sh : fonction de sauvegarde et de téléchargement d'équipements réseau fonctionnant en mode running et startup
 
      commande : sendo.sh FUNCTION NAME MARK USER DIRECTORY SOURCE COPY LOGIN ADDRESS USERNAME PASSWORD
 
