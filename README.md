@@ -1,9 +1,9 @@
-Facila Sendo
+# Facila Sendo
 
-   version : 2.00 Octobre 2026
-   auteur  : Thierry Le Gall
-   contact : facila@gmx.fr
-   web     : https://github.com/facila/sendo
+    version : 2.00 Octobre 2026
+    auteur  : Thierry Le Gall
+    contact : facila@gmx.fr
+    web     : https://github.com/facila/sendo
 
  sauvegarde et téléchargement d'équipements réseau fonctionnant en mode running et startup
 
